@@ -37,6 +37,7 @@ public class ErrorTest2 {
 	public static void main(String[] args) throws Exception {
 		String  date ="20190729";
 		String wenan ="问君能有几多愁,不如今晚来打球";
+		//请求贡献代码
 		run(date,wenan);
 	}
 	
